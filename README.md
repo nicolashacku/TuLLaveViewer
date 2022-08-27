@@ -5,8 +5,8 @@ contar con un dispositivo NFC
 ------------------------------------------------------------------------------------------------
 Uso:
 
--python consulta.py
--digitar numero de la tarjeta
+1.python consulta.py
+2.digitar numero de la tarjeta
 ------------------------------------------------------------------------------------------------
 Nota:Recuerda que el saldo mostrado es de hace 24 horas
 ------------------------------------------------------------------------------------------------
